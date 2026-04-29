@@ -1,6 +1,7 @@
 # F4F Exchange
 
-A small side project I built to experiment with Flask + Next.js.
+a “follow-for-follow” directory where users can log in with Twitter (X), see others, and follow/unfollow them
+
 It’s basically a “follow-for-follow” directory where users can log in with Twitter (X), see others, and follow/unfollow them.
 
 # Features
